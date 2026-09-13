@@ -1,7 +1,7 @@
 # ChatbotRAG
 
 A chatbot that answers questions about your own document (e.g. your CV in PDF),
-using local semantic search + the Claude API.
+using local semantic search + the Claude API. Read the file "How it works" to know the mathematical behaviour behind the program.
 
 ## Getting it running
 
