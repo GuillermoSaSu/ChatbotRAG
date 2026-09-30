@@ -21,7 +21,7 @@ using local semantic search + the Claude API. Read the file "How it works" to kn
 
 4. **Run it:**
    ```bash
-   python rag_chatbot.py
+   python chatbot_rag.py
    ```
 
 5. Ask it things about your CV: "what Python experience do I have?",
